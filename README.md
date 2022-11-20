@@ -1,2 +1,5 @@
-# Lab5_Thita_1630903472
+Thitawan Thanasai  
+CE312 Homework = Lab1  
+Section = 336B  
+ 
  
